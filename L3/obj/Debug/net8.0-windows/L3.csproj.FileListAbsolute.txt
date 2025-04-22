@@ -1,0 +1,16 @@
+F:\Работы\Дипломы\Федькин\ТП\Лаба\L3\L3\bin\Debug\net8.0-windows\L3.exe
+F:\Работы\Дипломы\Федькин\ТП\Лаба\L3\L3\bin\Debug\net8.0-windows\L3.deps.json
+F:\Работы\Дипломы\Федькин\ТП\Лаба\L3\L3\bin\Debug\net8.0-windows\L3.runtimeconfig.json
+F:\Работы\Дипломы\Федькин\ТП\Лаба\L3\L3\bin\Debug\net8.0-windows\L3.dll
+F:\Работы\Дипломы\Федькин\ТП\Лаба\L3\L3\bin\Debug\net8.0-windows\L3.pdb
+F:\Работы\Дипломы\Федькин\ТП\Лаба\L3\L3\obj\Debug\net8.0-windows\L3.RegisterForm.resources
+F:\Работы\Дипломы\Федькин\ТП\Лаба\L3\L3\obj\Debug\net8.0-windows\L3.csproj.GenerateResource.cache
+F:\Работы\Дипломы\Федькин\ТП\Лаба\L3\L3\obj\Debug\net8.0-windows\L3.GeneratedMSBuildEditorConfig.editorconfig
+F:\Работы\Дипломы\Федькин\ТП\Лаба\L3\L3\obj\Debug\net8.0-windows\L3.AssemblyInfoInputs.cache
+F:\Работы\Дипломы\Федькин\ТП\Лаба\L3\L3\obj\Debug\net8.0-windows\L3.AssemblyInfo.cs
+F:\Работы\Дипломы\Федькин\ТП\Лаба\L3\L3\obj\Debug\net8.0-windows\L3.csproj.CoreCompileInputs.cache
+F:\Работы\Дипломы\Федькин\ТП\Лаба\L3\L3\obj\Debug\net8.0-windows\L3.dll
+F:\Работы\Дипломы\Федькин\ТП\Лаба\L3\L3\obj\Debug\net8.0-windows\refint\L3.dll
+F:\Работы\Дипломы\Федькин\ТП\Лаба\L3\L3\obj\Debug\net8.0-windows\L3.pdb
+F:\Работы\Дипломы\Федькин\ТП\Лаба\L3\L3\obj\Debug\net8.0-windows\L3.genruntimeconfig.cache
+F:\Работы\Дипломы\Федькин\ТП\Лаба\L3\L3\obj\Debug\net8.0-windows\ref\L3.dll

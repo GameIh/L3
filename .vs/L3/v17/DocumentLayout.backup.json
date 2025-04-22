@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0414\u0438\u043F\u043B\u043E\u043C\u044B\\\u0424\u0435\u0434\u044C\u043A\u0438\u043D\\\u0422\u041F\\\u041B\u0430\u0431\u0430\\L3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4E40E3-32A7-45AE-BDEA-63B76425662E}|L3\\L3.csproj|f:\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0434\u0438\u043F\u043B\u043E\u043C\u044B\\\u0444\u0435\u0434\u044C\u043A\u0438\u043D\\\u0442\u043F\\\u043B\u0430\u0431\u0430\\l3\\l3\\doctorentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4E40E3-32A7-45AE-BDEA-63B76425662E}|L3\\L3.csproj|solutionrelative:l3\\doctorentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4E40E3-32A7-45AE-BDEA-63B76425662E}|L3\\L3.csproj|f:\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0434\u0438\u043F\u043B\u043E\u043C\u044B\\\u0444\u0435\u0434\u044C\u043A\u0438\u043D\\\u0442\u043F\\\u043B\u0430\u0431\u0430\\l3\\l3\\idatabasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4E40E3-32A7-45AE-BDEA-63B76425662E}|L3\\L3.csproj|solutionrelative:l3\\idatabasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4E40E3-32A7-45AE-BDEA-63B76425662E}|L3\\L3.csproj|f:\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0434\u0438\u043F\u043B\u043E\u043C\u044B\\\u0444\u0435\u0434\u044C\u043A\u0438\u043D\\\u0442\u043F\\\u043B\u0430\u0431\u0430\\l3\\l3\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4E40E3-32A7-45AE-BDEA-63B76425662E}|L3\\L3.csproj|solutionrelative:l3\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4E40E3-32A7-45AE-BDEA-63B76425662E}|L3\\L3.csproj|f:\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0434\u0438\u043F\u043B\u043E\u043C\u044B\\\u0444\u0435\u0434\u044C\u043A\u0438\u043D\\\u0442\u043F\\\u043B\u0430\u0431\u0430\\l3\\l3\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F4E40E3-32A7-45AE-BDEA-63B76425662E}|L3\\L3.csproj|solutionrelative:l3\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED0295-5724-4770-93E7-9FA2877138B0}|UnitTestProject\\UnitTestProject.csproj|f:\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0434\u0438\u043F\u043B\u043E\u043C\u044B\\\u0444\u0435\u0434\u044C\u043A\u0438\u043D\\\u0442\u043F\\\u043B\u0430\u0431\u0430\\l3\\unittestproject\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EED0295-5724-4770-93E7-9FA2877138B0}|UnitTestProject\\UnitTestProject.csproj|solutionrelative:unittestproject\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED0295-5724-4770-93E7-9FA2877138B0}|UnitTestProject\\UnitTestProject.csproj|f:\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0434\u0438\u043F\u043B\u043E\u043C\u044B\\\u0444\u0435\u0434\u044C\u043A\u0438\u043D\\\u0442\u043F\\\u043B\u0430\u0431\u0430\\l3\\unittestproject\\unittestproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0EED0295-5724-4770-93E7-9FA2877138B0}|UnitTestProject\\UnitTestProject.csproj|solutionrelative:unittestproject\\unittestproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4E40E3-32A7-45AE-BDEA-63B76425662E}|L3\\L3.csproj|f:\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0434\u0438\u043F\u043B\u043E\u043C\u044B\\\u0444\u0435\u0434\u044C\u043A\u0438\u043D\\\u0442\u043F\\\u043B\u0430\u0431\u0430\\l3\\l3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4E40E3-32A7-45AE-BDEA-63B76425662E}|L3\\L3.csproj|solutionrelative:l3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4E40E3-32A7-45AE-BDEA-63B76425662E}|L3\\L3.csproj|f:\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0434\u0438\u043F\u043B\u043E\u043C\u044B\\\u0444\u0435\u0434\u044C\u043A\u0438\u043D\\\u0442\u043F\\\u043B\u0430\u0431\u0430\\l3\\l3\\registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4E40E3-32A7-45AE-BDEA-63B76425662E}|L3\\L3.csproj|solutionrelative:l3\\registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTestProject",
+              "DocumentMoniker": "F:\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0414\u0438\u043F\u043B\u043E\u043C\u044B\\\u0424\u0435\u0434\u044C\u043A\u0438\u043D\\\u0422\u041F\\\u041B\u0430\u0431\u0430\\L3\\UnitTestProject\\UnitTestProject.csproj",
+              "RelativeDocumentMoniker": "UnitTestProject\\UnitTestProject.csproj",
+              "ToolTip": "F:\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0414\u0438\u043F\u043B\u043E\u043C\u044B\\\u0424\u0435\u0434\u044C\u043A\u0438\u043D\\\u0422\u041F\\\u041B\u0430\u0431\u0430\\L3\\UnitTestProject\\UnitTestProject.csproj",
+              "RelativeToolTip": "UnitTestProject\\UnitTestProject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-22T14:08:44.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tests.cs",
+              "DocumentMoniker": "F:\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0414\u0438\u043F\u043B\u043E\u043C\u044B\\\u0424\u0435\u0434\u044C\u043A\u0438\u043D\\\u0422\u041F\\\u041B\u0430\u0431\u0430\\L3\\UnitTestProject\\Tests.cs",
+              "RelativeDocumentMoniker": "UnitTestProject\\Tests.cs",
+              "ToolTip": "F:\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0414\u0438\u043F\u043B\u043E\u043C\u044B\\\u0424\u0435\u0434\u044C\u043A\u0438\u043D\\\u0422\u041F\\\u041B\u0430\u0431\u0430\\L3\\UnitTestProject\\Tests.cs",
+              "RelativeToolTip": "UnitTestProject\\Tests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T14:05:21.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "F:\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0414\u0438\u043F\u043B\u043E\u043C\u044B\\\u0424\u0435\u0434\u044C\u043A\u0438\u043D\\\u0422\u041F\\\u041B\u0430\u0431\u0430\\L3\\L3\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "L3\\RegisterForm.cs",
+              "ToolTip": "F:\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0414\u0438\u043F\u043B\u043E\u043C\u044B\\\u0424\u0435\u0434\u044C\u043A\u0438\u043D\\\u0422\u041F\\\u041B\u0430\u0431\u0430\\L3\\L3\\RegisterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "L3\\RegisterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T13:57:53.052Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterForm.Designer.cs",
+              "DocumentMoniker": "F:\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0414\u0438\u043F\u043B\u043E\u043C\u044B\\\u0424\u0435\u0434\u044C\u043A\u0438\u043D\\\u0422\u041F\\\u041B\u0430\u0431\u0430\\L3\\L3\\RegisterForm.Designer.cs",
+              "RelativeDocumentMoniker": "L3\\RegisterForm.Designer.cs",
+              "ToolTip": "F:\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0414\u0438\u043F\u043B\u043E\u043C\u044B\\\u0424\u0435\u0434\u044C\u043A\u0438\u043D\\\u0422\u041F\\\u041B\u0430\u0431\u0430\\L3\\L3\\RegisterForm.Designer.cs",
+              "RelativeToolTip": "L3\\RegisterForm.Designer.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowF8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T13:57:33.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0414\u0438\u043F\u043B\u043E\u043C\u044B\\\u0424\u0435\u0434\u044C\u043A\u0438\u043D\\\u0422\u041F\\\u041B\u0430\u0431\u0430\\L3\\L3\\Program.cs",
+              "RelativeDocumentMoniker": "L3\\Program.cs",
+              "ToolTip": "F:\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0414\u0438\u043F\u043B\u043E\u043C\u044B\\\u0424\u0435\u0434\u044C\u043A\u0438\u043D\\\u0422\u041F\\\u041B\u0430\u0431\u0430\\L3\\L3\\Program.cs",
+              "RelativeToolTip": "L3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T13:40:31.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "F:\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0414\u0438\u043F\u043B\u043E\u043C\u044B\\\u0424\u0435\u0434\u044C\u043A\u0438\u043D\\\u0422\u041F\\\u041B\u0430\u0431\u0430\\L3\\L3\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "L3\\RegisterForm.cs",
+              "ToolTip": "F:\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0414\u0438\u043F\u043B\u043E\u043C\u044B\\\u0424\u0435\u0434\u044C\u043A\u0438\u043D\\\u0422\u041F\\\u041B\u0430\u0431\u0430\\L3\\L3\\RegisterForm.cs",
+              "RelativeToolTip": "L3\\RegisterForm.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwEoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T13:20:55.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorEntry.cs",
+              "DocumentMoniker": "F:\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0414\u0438\u043F\u043B\u043E\u043C\u044B\\\u0424\u0435\u0434\u044C\u043A\u0438\u043D\\\u0422\u041F\\\u041B\u0430\u0431\u0430\\L3\\L3\\DoctorEntry.cs",
+              "RelativeDocumentMoniker": "L3\\DoctorEntry.cs",
+              "ToolTip": "F:\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0414\u0438\u043F\u043B\u043E\u043C\u044B\\\u0424\u0435\u0434\u044C\u043A\u0438\u043D\\\u0422\u041F\\\u041B\u0430\u0431\u0430\\L3\\L3\\DoctorEntry.cs",
+              "RelativeToolTip": "L3\\DoctorEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T13:19:39.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDatabaseController.cs",
+              "DocumentMoniker": "F:\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0414\u0438\u043F\u043B\u043E\u043C\u044B\\\u0424\u0435\u0434\u044C\u043A\u0438\u043D\\\u0422\u041F\\\u041B\u0430\u0431\u0430\\L3\\L3\\IDatabaseController.cs",
+              "RelativeDocumentMoniker": "L3\\IDatabaseController.cs",
+              "ToolTip": "F:\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0414\u0438\u043F\u043B\u043E\u043C\u044B\\\u0424\u0435\u0434\u044C\u043A\u0438\u043D\\\u0422\u041F\\\u041B\u0430\u0431\u0430\\L3\\L3\\IDatabaseController.cs*",
+              "RelativeToolTip": "L3\\IDatabaseController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T13:36:31.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
